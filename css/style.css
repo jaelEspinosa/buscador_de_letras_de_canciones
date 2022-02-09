@@ -43,6 +43,11 @@ h2 {
 .formulario-busqueda span {
     color: red;
 }
+@media (max-width:600px){
+.input{
+    transform: scale(65%);
+}
+}
 
 .input {
     margin-bottom: 1rem;
